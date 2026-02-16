@@ -1,7 +1,6 @@
 - Hello, my name is Kel. 
-- I'm building a website hosted on neocities.
+- I'm building a website hosted on --neocities-- nekoweb.
 - Currently learning how to make my website work :') 
-- moldy.banana on discord
 - she/her
 
 <!---
